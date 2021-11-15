@@ -49,7 +49,7 @@
 // let hzy = new People("hzy", 23);
 // console.log(hzy);
 
-let foo = (...args) => {
-  console.log(args);
-};
-foo(1, 2, 3);
+// let foo = (...args) => {
+//   console.log(args);
+// };
+// foo(1, 2, 3);
